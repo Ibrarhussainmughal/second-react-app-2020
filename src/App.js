@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div >
-     Hello world
+     Hello world from all
 
     </div>
   );
