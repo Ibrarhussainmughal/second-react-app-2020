@@ -37,7 +37,7 @@ steps:
  - name:installing surge
 run: npm install -g surge
 
- - name:deploying on surge
+ - name: deploying on surge
   
 run:surge ./build second_react_app2020.surge.sh/ --token $ {{secrets.SURGE_TOKEN}}
 
