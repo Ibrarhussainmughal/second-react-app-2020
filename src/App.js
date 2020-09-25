@@ -6,8 +6,7 @@ function App() {
   return (
     <div >
      Hello world from all
-
-    </div>
+</div>
   );
 }
 
